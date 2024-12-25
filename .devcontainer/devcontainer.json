@@ -1,0 +1,12 @@
+{
+    "name": "Java Development Container",
+    "image": "mcr.microsoft.com/devcontainers/java:17",
+    "postCreateCommand": "mvn clean install",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-maven"
+    ]
+}
