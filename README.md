@@ -1,2 +1,2 @@
 # FirstStrutswithSpringApp
-Create first web app with Struts MVC framework and Spring framework integration. Project codebase was created via Eclipse IDE for java entreprise applications and JDK development toolbox.
+Create Spring web application middle-tier using Spring boot and integration of third party web framework Struts handling the presentation layer. Project codebase was created via Spring starter project template in Eclipse IDE.
