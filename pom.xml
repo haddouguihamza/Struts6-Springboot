@@ -30,7 +30,7 @@
 	<properties>
 		<java.version>21</java.version>
 		<spring-boot-admin.version>3.4.1</spring-boot-admin.version>
-		<struts.version>6.1.2</struts.version>
+		<struts.version>6.4.0</struts.version>
 	</properties>
 	<dependencies>
 		<dependency>
